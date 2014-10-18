@@ -1,0 +1,10 @@
+{
+  "name": "trayDemo",
+  "main": "index.html",
+  "window": {
+    "title": "trayDemo",
+    "toolbar": true,
+    "show_in_taskbar": true,
+    "show": false
+  }
+}
